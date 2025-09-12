@@ -2,3 +2,6 @@
 
 ## Ingredients 
 - A box of ice cream 
+
+## Instructions
+- Eat the ice cream 
