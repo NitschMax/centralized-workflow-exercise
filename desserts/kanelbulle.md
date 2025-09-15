@@ -7,7 +7,7 @@
 
 ## Ingredients
 
-- Danish Kronor
+- Swedish Kronor
 
 
 ## Instructions
