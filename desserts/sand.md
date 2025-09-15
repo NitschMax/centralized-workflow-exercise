@@ -2,7 +2,7 @@
 
 # Ingredients
 - Sand from a desert
-- Water
+- Clean water
 
 # Instructions
 - Mix water and sand
